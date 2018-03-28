@@ -1,0 +1,61 @@
+body {
+  padding-top: 30px;
+}
+
+.navbar-brand{
+	padding:5px 30px 5px 5px;
+}
+
+.welcome-banner-box{
+	padding: 10px;
+	text-align: center;
+}
+
+.login-box{
+	padding:10px;
+}
+
+.profile-pic{
+	width:40px;
+	height:40px;
+	background-color:#ccc;
+}
+
+.page-content-area{
+	padding:30px 0px;
+}
+
+.error {
+	color: #a94442;
+	border-color: #a94442;
+}
+
+.error:focus {
+	  border-color: #843534;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ce8483;
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ce8483;
+}
+
+table th {
+	text-transform: capitalize;
+}
+
+.button-row {
+	text-align:right;
+}
+
+.navbar {
+	background-color:#013971;
+	border-color:#02182f;
+}
+
+.page-header-custom {
+	border-bottom:1px solid #ddd;
+	padding-bottom:5px;
+	margin-top:10px;
+	margin-bottom:25px;
+}
+
+pre {
+	border:none;
+}
